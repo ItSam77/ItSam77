@@ -19,7 +19,7 @@ To blend my mathematical and statistical interests with machine learning and AI,
 
 ## 🛠️ Tools & Technologies
 
-![](https://skillicons.dev/icons?i=html,css,bootstrap,js,php,java,python,mysql,firebase,vscode,figma,anaconda,git,&perline=19)
+![](https://skillicons.dev/icons?i=python,mysql,vscode,php,js,html,css,bootstrap,java,figma,anaconda,git,&perline=19)
 
 ## 📊 GitHub Stats
 <p align="center">

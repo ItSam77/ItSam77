@@ -3,7 +3,7 @@
 
 ## 🌟 About Me
 
-Hi there! I'm a third-year Informatics student at **Universitas Pancasila** 🎓, and I'm passionate about leveraging data to drive meaningful insights. Currently on an exciting journey into **Machine Learning** through the **Bangkit Program** (Path: Machine Learning) by Google, GoTo, and Traveloka. 🚀
+Hi there! I'm a third-year Informatics student at **Universitas Pancasila** 🎓, and I'm passionate about leveraging data to drive meaningful insights. Currently on an exciting journey into **Machine Learning** through the **Bangkit Program** by Google, GoTo, and Traveloka. 🚀
 
 ### 🔭 What I’m Working On
 - 📘 **Machine Learning with Python**: Exploring various ML models and diving deep into Python libraries.

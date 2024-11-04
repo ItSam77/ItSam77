@@ -6,12 +6,19 @@
 
 ## 🌟 About Me
 
-I'm a third-year undergraduate Informatics student at **Universitas Pancasila**.
+Hi there! I'm a third-year Informatics student at **Universitas Pancasila** 🎓, and I'm passionate about leveraging data to drive meaningful insights. Currently on an exciting journey into **Machine Learning** through the **Bangkit Program** (Path: Machine Learning) by Google, GoTo, and Traveloka. 🚀
 
-- 🔭 I’m currently studying: 
-	- **Machine Learning** using Python.
-- :bulb: I'm interested in:
-- 🎯 My goal is to become a **Data Scientist** and contribute to open-source projects.
+### 🔭 What I’m Working On
+- 📘 **Machine Learning with Python**: Exploring various ML models and diving deep into Python libraries.
+- 📈 **Statistics and Mathematics**: I love digging into statistical analysis and probability—essential tools for any data scientist!
+- 🛠️ Open-source contributions: I aspire to contribute actively to projects that make a difference in the community.
+
+### 🌱 Learning Goals
+- Becoming a **Data Scientist** who can extract valuable insights and solve real-world problems.
+- Expanding my knowledge in data science, AI, and continually embracing new tech skills.
+  
+### 🎯 My Vision
+To blend my mathematical and statistical interests with machine learning and AI, creating solutions that make data more accessible and impactful.
 
 ## 🛠️ Tools & Technologies
 

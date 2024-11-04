@@ -1,6 +1,3 @@
-<img align="center">[![](https://visitcount.itsvg.in/api?id=reinhardjavera&icon=1&color=2)](https://visitcount.itsvg.in)
----
-
 <h1 align="center">Hi 👋, I'm Samuel Nardus Hamonangan Sinaga</h1>
 <h4 align="center">Welcome to my GitHub profile! I'm from South Tangerang, Banten, Indonesia. 🌱</h4>
 
@@ -26,8 +23,6 @@ To blend my mathematical and statistical interests with machine learning and AI,
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsam77&theme=dark&hide_border=false" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsam77&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 

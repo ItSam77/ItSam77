@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel Nardus Hamonangan Sinaga</h1>
-<h4 align="center">Welcome to my GitHub profile! I'm from South Tangerang, Banten, Indonesia. 🌱</h4>
+<h4 align="center">Welcome to my GitHub profile! I'm from South Tangerang, Banten, Indonesia.</h4>
 
 ## 🌟 About Me
 

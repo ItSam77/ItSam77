@@ -15,7 +15,7 @@ Hi there! I'm a third-year Informatics student at **Universitas Pancasila** 🎓
 - Expanding my knowledge in data science, AI, and continually embracing new tech skills.
   
 ### 🎯 My Vision
-To blend my mathematical and statistical interests with machine learning and AI, creating solutions that make data more accessible and impactful.
+To blend my mathematical and statistical interests with machine learning and AI, creating solutions that make data more accessible and impactful
 
 ## 🛠️ Tools & Technologies
 

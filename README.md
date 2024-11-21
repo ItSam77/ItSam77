@@ -2,7 +2,7 @@
 <h4 align="center">Welcome to my GitHub profile! I'm from South Tangerang, Banten, Indonesia.</h4>
 
 ## 🌟 About Me
-
+   
 Hi there! I'm a third-year Informatics student at **Universitas Pancasila** 🎓, and I'm passionate about leveraging data to drive meaningful insights. Currently on an exciting journey into **Machine Learning** through the **Bangkit Program** by Google, GoTo, and Traveloka. 🚀
 
 ### 🔭 What I’m Working On

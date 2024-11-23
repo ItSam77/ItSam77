@@ -21,7 +21,7 @@ To blend my mathematical and statistical interests with machine learning and AI,
 
 ![](https://skillicons.dev/icons?i=python,mysql,vscode,php,js,html,css,bootstrap,java,figma,anaconda,git,&perline=19)
 
-## 📊 GitHub Statss
+## 📊 GitHub Statsss
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsam77&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>

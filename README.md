@@ -33,7 +33,7 @@ I love extracting meaningful insights from complex datasets and turning numbers 
 ## 🛠️ My Data Science Toolkit
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,anaconda,jupyter,sklearn,matplotlib,seaborn,pandas,numpy,git,vscode,mysql,figma" />
+  <img src="https://skillicons.dev/icons?i=python,anaconda,,git,vscode,mysql,figma" />
 </p>
 
 ---

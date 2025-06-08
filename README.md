@@ -30,10 +30,10 @@ I love extracting meaningful insights from complex datasets and turning numbers 
 
 ---
 
-## 🛠️ My Data Science Toolkit
+## 🛠️ My Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,anaconda,,git,vscode,mysql,figma" />
+  <img src="https://skillicons.dev/icons?i=python,js,php,html,css,sql,git,vscode,figma,anaconda" />
 </p>
 
 ---

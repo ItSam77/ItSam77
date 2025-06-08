@@ -1,41 +1,81 @@
-<h1 align="center">Hi Everyone 👋, I'm Samuel Nardus Hamonangan Sinaga</h1>
-<h4 align="center">Welcome to my GitHub profile! I'm from South Tangerang, Banten, Indonesia.</h4>
+<h1 align="center">👋 Hi, I'm Samuel Nardus Hamonangan Sinaga</h1>
+<h4 align="center">Aspiring Data Scientist from South Tangerang, Banten, Indonesia 🇮🇩</h4>
 
-## 🌟 About Me
-
-Hey there! I'm a third-year Informatics student at **Universitas Pancasila** 🎓, and I'm all about turning data into actionable insights🚀.
-
-### 🔭 What I’m Working On
-- 📘 **Machine Learning with Python**: Exploring various ML models and diving deep into Python libraries.
-- 📈 **Statistics and Mathematics**: I love digging into statistical analysis and probability—essential tools for any data scientist!
-- 🛠️ **Open-source contributions**: I aspire to contribute actively to projects that make a difference in the community.
-- 💻 **Backend Development**: I'm also getting into backend development, building robust and scalable systems.
-
-### 🌱 Learning Goals
-- Becoming a **Data Scientist** who can extract valuable insights and solve real-world problems.
-- Expanding my knowledge in data science, AI, and continually embracing new tech skills.
-- Mastering backend technologies to build efficient and scalable systems.
-
-### 🎯 My Vision
-To blend my mathematical and statistical interests with machine learning and AI, creating solutions that make data more accessible and impactful. I also aim to excel in backend development, ensuring the systems I build are both powerful and reliable.
-
-## 🛠️ Tools & Technologies
-
-![](https://skillicons.dev/icons?i=python,mysql,vscode,php,js,html,css,bootstrap,java,figma,anaconda,git,nodejs,express,mongodb,&perline=19)
-
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsam77&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
-
-## 📫 How to Reach Me
-<a target="_blank" href="https://www.linkedin.com/in/samuel-nardus-hamonangan-sinaga-25868928b/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/samuel-nardus-hamonangan-sinaga-25868928b/" target="_blank">
+    <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 💡 Fun Fact
-I believe that the best way to learn is by doing, so I'm always on the lookout for new projects and challenges to tackle. Whether it's data science, machine learning, or backend development, I'm ready to dive in and make an impact!
+## 🧑‍💻 About Me
 
-Let's connect and create something amazing together! 🚀
+Hey! I'm a third-year Informatics student at **Universitas Pancasila** with a passion for all things **Data Science**.  
+I love extracting meaningful insights from complex datasets and turning numbers into impactful stories.
+
+- 🔬 **Focus:** Data Science, Machine Learning, Statistical Analysis
+- 📈 **Strengths:** Data Wrangling, Exploratory Data Analysis, Model Building, Data Visualization
+- 💡 **Philosophy:** Data is only valuable when it drives action!
+
+---
+
+## 🚀 What I'm Doing Now
+
+- Building end-to-end data science projects (from raw data to real insights)
+- Practicing with Kaggle datasets & competitions
+- Deepening my knowledge in Python (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn)
+- Experimenting with machine learning and AI techniques
+- Collaborating on open-source data science initiatives
+
+---
+
+## 🛠️ My Data Science Toolkit
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,anaconda,jupyter,sklearn,matplotlib,seaborn,pandas,numpy,git,vscode,mysql,figma" />
+</p>
+
+---
+
+## ☁️ Deployment: Exploring MLOps & Model Deployment
+
+I'm currently learning how to **deploy machine learning models** so they can make an impact outside Jupyter Notebooks!
+
+- 🚀 Exploring **Flask** & **FastAPI** for serving models as web APIs
+- 🌐 Experimenting with platforms like **Heroku**, **Render**, and **Vercel**
+- 📦 Getting familiar with **Docker** for containerizing data science projects
+- 🛡️ Learning about best practices for real-world model deployment & monitoring
+
+---
+
+## 🎯 My Data Science Goals
+
+- 🥇 Become a **skilled Data Scientist** ready for real-world challenges
+- 🤝 Contribute to open-source data science projects
+- 📊 Master the latest ML & AI frameworks and cloud data platforms
+- ☁️ **Get hands-on with deployment and MLOps!**
+
+---
+
+## 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsam77&show_icons=true&theme=radical&hide_border=true" alt="Samuel's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsam77&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/samuel-nardus-hamonangan-sinaga-25868928b/)
+- Email: *[samuelsinaga53@gmail.com]*
+
+---
+
+## 💡 Fun Fact
+
+I believe data science isn’t just about numbers—it’s about telling stories that inspire action.  
+Let’s collaborate, learn, and turn data into something remarkable!
+

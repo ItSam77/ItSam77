@@ -76,6 +76,5 @@ I'm currently learning how to **deploy machine learning models** so they can mak
 
 ## 💡 Fun Fact
 
-I believe data science isn’t just about numbers—it’s about telling stories that inspire action.  
-Let’s collaborate, learn, and turn data into something remarkable!
+I’ll be changing my GitHub profile picture based on 5-cost champions in TeamFight Tactics for every new set released. 🎮✨
 

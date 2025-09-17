@@ -77,6 +77,6 @@ I'm currently learning how to **deploy machine learning models** so they can mak
 ## 💡 Fun Fact
 
 I’ll be changing my GitHub profile picture based on 5-cost champions in TeamFight Tactics for every new set released. 🎮✨
-Currently : Twisted Fate [Rogue Captain, The Crew]
+\br Currently : Twisted Fate [Rogue Captain, The Crew]
 
 

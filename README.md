@@ -61,7 +61,6 @@ I'm currently learning how to **deploy machine learning models** so they can mak
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsam77&show_icons=true&theme=radical&hide_border=true" alt="Samuel's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsam77&layout=compact&theme=radical&hide_border=true" />
 </p>
 

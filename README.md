@@ -18,36 +18,6 @@ I love extracting meaningful insights from complex datasets and turning numbers 
 - 📈 **Strengths:** Data Wrangling, Exploratory Data Analysis, Model Building, Data Visualization
 - 💡 **Philosophy:** Data is only valuable when it drives action!
 
----
-
-## 🚀 What I'm Doing Now
-
-- Building end-to-end data science projects (from raw data to real insights)
-- Practicing with Kaggle datasets & competitions
-- Deepening my knowledge in Python (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn)
-- Experimenting with machine learning and AI techniques
-- Collaborating on open-source data science initiatives
-
----
-
-## 🛠️ My Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,php,html,css,sql,git,vscode,figma,anaconda" />
-</p>
-
----
-
-## ☁️ Deployment: Exploring MLOps & Model Deployment
-
-I'm currently learning how to **deploy machine learning models** so they can make an impact outside Jupyter Notebooks!
-
-- 🚀 Exploring **Flask** & **FastAPI** for serving models as web APIs
-- 🌐 Experimenting with platforms like **Heroku**, **Render**, and **Vercel**
-- 📦 Getting familiar with **Docker** for containerizing data science projects
-- 🛡️ Learning about best practices for real-world model deployment & monitoring
-
----
 
 ## 🎯 My Data Science Goals
 
@@ -58,13 +28,6 @@ I'm currently learning how to **deploy machine learning models** so they can mak
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsam77&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
 
 ## 🌐 Connect with Me
 

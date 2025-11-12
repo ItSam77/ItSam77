@@ -43,6 +43,6 @@ I’ll be changing my GitHub profile picture based on 5-cost champions in TeamFi
 Currently : Twisted Fate [Rogue Captain, The Crew]
 
 Waiting set 16...
-
+Ada yunara coyyy
 ---
 

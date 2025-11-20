@@ -40,9 +40,7 @@ I love extracting meaningful insights from complex datasets and turning numbers 
 
 I’ll be changing my GitHub profile picture based on 5-cost champions in TeamFight Tactics for every new set released. 🎮✨
 
-Currently : Twisted Fate [Rogue Captain, The Crew]
+Currently : Annie [Dark Child, Arcanist]
 
-Waiting set 16...
-Ada yunara coyyy
 ---
 

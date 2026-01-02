@@ -11,20 +11,7 @@
 
 ## 🧑‍💻 About Me
 
-Hey! I'm a third-year Informatics student at **Universitas Pancasila** with a passion for all things **Data Science**.  
-I love extracting meaningful insights from complex datasets and turning numbers into impactful stories.
-
-- 🔬 **Focus:** Data Science, Machine Learning, Statistical Analysis
-- 📈 **Strengths:** Data Wrangling, Exploratory Data Analysis, Model Building, Data Visualization
-- 💡 **Philosophy:** Data is only valuable when it drives action!
-
-
-## 🎯 My Data Science Goals
-
-- 🥇 Become a **skilled Data Scientist** ready for real-world challenges
-- 🤝 Contribute to open-source data science projects
-- 📊 Master the latest ML & AI frameworks and cloud data platforms
-- ☁️ **Get hands-on with deployment and MLOps!**
+Hey! I'm a samuel, you can check full of my profile in Linkedin, too lazy to write here u know :v.
 
 ---
 

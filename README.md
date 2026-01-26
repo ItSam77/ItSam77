@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi, I'm Samuel Nardus Hamonangan Sinaga</h1>
 <h4 align="center">Aspiring Data Scientist from South Tangerang, Banten, Indonesia 🇮🇩</h4>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.linkedin.com/in/samuel-nardus-hamonangan-sinaga-25868928b/" target="_blank">
     <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-</p>
+</p> -->
 
 ---
 

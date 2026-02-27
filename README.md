@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Samuel Nardus Hamonangan Sinaga</h1>
+<h1 align="center">Hi, I'm Samuel Nardus Hamonangan Sinaga</h1>
 <h4 align="center">Aspiring Data Scientist from South Tangerang, Banten, Indonesia 🇮🇩</h4>
 
 <!-- <p align="center">

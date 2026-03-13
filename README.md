@@ -6,7 +6,6 @@
     <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 </p> -->
-
 ---
 
 ## 🧑‍💻 About Me

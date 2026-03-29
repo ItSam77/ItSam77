@@ -26,7 +26,7 @@ Hey! I'm a samuel, you can check full of my profile in Linkedin, too lazy to wri
 
 I’ll be changing my GitHub profile picture based on 5-cost champions in TeamFight Tactics for every new set released. 🎮✨
 
-Currently : Annie [Dark Child, Arcanist]
+Currently : Jhin [Dark Star, Eradicator, Sniper]
 
 ---
 

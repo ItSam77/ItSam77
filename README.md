@@ -10,7 +10,9 @@
 
 ## 🧑‍💻 About Me
 
-Hey! I'm a samuel, you can check full of my profile in Linkedin, too lazy to write here u know :v.
+Hey! I'm Samuel. Now that I've finished college, it's time to explore new opportunities. Whenever I'm unsure what to do next, I like to refresh my mind by solving LeetCode problems.
+
+For now, I'm an (O(n^2)) and (O(n!)) enjoyer 😂 Still got a lot to learn, and I'm excited to keep improving!
 
 ---
 
